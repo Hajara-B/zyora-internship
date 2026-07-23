@@ -19,7 +19,7 @@ Used navigation (`<nav>`) and added sections like About Me, Skills, Education, a
 
 # Day 4
 
-- Added viewport meta tag.
-- Implemented responsive design using media queries.
-- Made the navigation, table, and form mobile-friendly.
-- Tested the website in Chrome DevTools.
+Added viewport meta tag.
+Implemented responsive design using media queries.
+Made the navigation, table, and form mobile-friendly.
+Tested the website in Chrome DevTools.
