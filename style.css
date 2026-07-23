@@ -39,3 +39,33 @@ nav a{
 nav a:hover{
     text-decoration:underline;
 }
+
+
+
+.skills{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+
+
+.card{
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: 4px solid #2f89c1;
+    font-weight:500;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+
+
+.card:hover{
+    background-color: #2563EB;
+    color: white;
+    transform: translateY(-5px);
+}
