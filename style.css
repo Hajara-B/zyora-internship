@@ -1,1 +1,41 @@
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F8FAFC;
+    color: #1F2937;
+    line-height: 1.6;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    background-color:#24358a;
+    padding: 25px 30px;
+}
+
+header h1{
+    color:white;
+    font-size:32px;
+}
+
+
+nav{
+    display:flex;
+    gap:25px;
+}
+
+nav a{
+    color:white;
+    font-weight:500;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
