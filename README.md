@@ -23,3 +23,9 @@ Added viewport meta tag.
 Implemented responsive design using media queries.
 Made the navigation, table, and form mobile-friendly.
 Tested the website in Chrome DevTools.
+
+## Day 5
+Added JavaScript interactivity.
+Implemented Dark Mode toggle.
+Added contact form validation (empty fields & email).
+Displayed success message and reset the form.
