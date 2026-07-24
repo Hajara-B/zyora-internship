@@ -25,4 +25,6 @@ contactForm.addEventListener("submit", function(event) {
     alert("Enter a valid email.");
     return;
 }
+     alert("Form submitted successfully!");
+    contactForm.reset();
 });
